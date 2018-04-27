@@ -31,4 +31,3 @@ const madLibrary = {
 
 Would it surprise you to learn that the most majestic `plural noun` in the world eat garbage? Well, they do! Everything from `adjective` soda cans to `noun`-stained `type of food` boxes to used `article of clothing` - and more! Some have been spotted `verb ending in "ing"` dumpsters and then using their long `plural noun` to spear as many bags of `plural noun` as they can before being caught. According to an interview with the `Number` Minutes News,
 `Celebrity` once came home to find a/an `color` unicorn `verb ending in "ing"` up in the recycling bin. The poor thing had mistaken leftover `type of food` for dried up `plural noun`. "It was a/an `adjective` minstake. I am a good cook!"
-# madlibs-lightning-exercise
